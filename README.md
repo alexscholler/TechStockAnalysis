@@ -5,7 +5,7 @@
 A comprehensive Power BI dashboard analyzing stock performance for Google (GOOG), Tesla (TSLA), and NVIDIA (NVDA) with advanced financial metrics, technical indicators, and interactive visualizations.
 
 ## 📊 Live Dashboard
-**[View Interactive Dashboard](your-powerbi-link-here)** 
+**[View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/a0e30b95-0b4a-4fe9-aac7-40229fab7ec3/b589354dee8ca48b8d90?experience=power-bi)** 
 
 ## 🎯 Key Features
 
@@ -75,10 +75,10 @@ A comprehensive Power BI dashboard analyzing stock performance for Google (GOOG)
 ## 📸 Screenshots
 
 ### Executive Dashboard
-![Executive Summary](screenshots/executive_summary.png)
-
-### Technical Analysis
-![Technical Analysis](screenshots/technical_analysis.png)
+![Executive Summary](screenshots/TechStocks_1.png)
+![GOOG](screenshots/GOOG.PNG)
+![NVDA](screenshots/NVDA.PNG)
+![TSLA](screenshots/TSLA.PNG)
 
 ## 🏆 Business Value
 
@@ -113,10 +113,9 @@ This project demonstrates proficiency in:
 
 ## 📞 Contact
 
-**[Your Name]**
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-- Portfolio: [Your Website]
+**[Alexandru Scholler]**
+- LinkedIn: [www.linkedin.com/in/alexandru-s-556003195]
+- Portfolio: [https://alexscholler.github.io/]
 
 ---
 
