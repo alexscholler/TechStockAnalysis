@@ -76,9 +76,9 @@ A comprehensive Power BI dashboard analyzing stock performance for Google (GOOG)
 
 ### Executive Dashboard
 ![Executive Summary](screenshots/TechStocks_1.png)
-![GOOG](screenshots/GOOG.PNG)
-![NVDA](screenshots/NVDA.PNG)
-![TSLA](screenshots/TSLA.PNG)
+![GOOG](screenshots/GOOG.png)
+![NVDA](screenshots/NVDA.png)
+![TSLA](screenshots/TSLA.png)
 
 ## 🏆 Business Value
 
