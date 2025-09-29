@@ -1,1 +1,5 @@
-3Stocks.pbix
+# Ignore all Power BI project files
+*.pbix
+
+# Ignore Power BI template files
+*.pbit
