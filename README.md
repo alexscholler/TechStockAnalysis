@@ -5,8 +5,8 @@
 A comprehensive Power BI dashboard analyzing stock performance for Google (GOOG), Tesla (TSLA), and NVIDIA (NVDA) with advanced financial metrics, technical indicators, and interactive visualizations.
 
 ## 📊 Live Dashboard
-**You will need a Microsoft School/Work account.
-*[View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/a0e30b95-0b4a-4fe9-aac7-40229fab7ec3/b589354dee8ca48b8d90?experience=power-bi)** 
+**[View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/a0e30b95-0b4a-4fe9-aac7-40229fab7ec3/b589354dee8ca48b8d90?experience=power-bi)** 
+*You will need a Microsoft School/Work account.*
 
 ## 🎯 Key Features
 
